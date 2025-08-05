@@ -1,5 +1,6 @@
 HTML TS Buy Me A Coffee
-This is a simple beginner website made for Web3 Developement in the Blockchain.
+
+This is a simple beginner website made for Web3 Developement.
 
 HTML TS Buy Me A Coffee
 Setup (Both Javascript and Typescript Editions)
