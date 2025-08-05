@@ -28,8 +28,7 @@ anvil
 You'll know you've installed it right if you can run: anvil --version
 Quickstart
 Clone the repository
-git clone https://github.com/Cyfrin/html-ts-coffee-cu
-cd html-ts-coffee-cu
+git clone https://github.com/superboyx13/html-ts-coffee-cu.git
 Run the following command:
 anvil --load-state fundme-anvil.json 
 This will load a local blockchain with our smart contract already deployed.
